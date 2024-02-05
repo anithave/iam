@@ -1,15 +1,1 @@
-What is identity and access management?
-
-Identity and access management (IAM) ensures that the right people (identity) can access the right resources at the right times, for the right reasons (access management).
-
-Zero Trust Security Model
- 
-Zero trust is the new standard in network security that strictly limits user access based on a dynamic authorization policy. A zero trust security model framework requires all users inside and outside the organization’s network to be authenticated, authorized, and continuously validated for security configuration and posture before accessing applications and data.
-In simple words, security needs to be applied to everyone. There is no meaning of trust.
-
-Authentication:
-Authentication is the process of determining whether someone, or something, is who or what they say they are. In simple words you are allowed to enter.
-We have varities of Authentication meachanism. That differentiate based on 3 factors.
-
-
-
+IAM Practice:
